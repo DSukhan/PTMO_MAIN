@@ -1,8 +1,5 @@
 # CinemaBookingApp
 
-<p align="center">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20%">
-</p>
 CinemaBookingApp is an Android application designed for a small cinema, providing customers with the ability to view the current movie lineup, book tickets and receive the ticket confirmation via their email address. Additionally, the app offers employees the capability to efficiently manage the movie list and related information. This application is developed as a solo university project for a software engineering class.
 
 ## Features
@@ -30,7 +27,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation
 
 1. Clone the repository:
-git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://github.com/rafailpapastamou/cinema-booking-app.git)
+git clone https://github.com/DSukhan/PTMO_MAIN.git
 
 2. Open the project in Android Studio.
 
@@ -48,9 +45,6 @@ This project requires a database for storing and retrieving data. To set up the 
 
 By following these steps, you can configure the application to use your own database and ensure the proper functioning of the app. Please note that the config.xml file is not included in the repository for security reasons, and you need to provide your own database credentials.
 
-### APK Download
-If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the link below to see the app releases and download the APK file.<br>
-[App Releases](https://github.com/rafailpapastamou/cinema-booking-app/releases)
 
 ## Technologies Used
 
