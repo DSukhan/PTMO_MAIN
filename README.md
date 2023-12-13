@@ -18,39 +18,6 @@ CinemaBookingApp is an Android application designed for a small cinema, providin
 - Administrative control over user types, including employee management
 - Multi-language support: English and Greek
 
-## Screenshots
-
-The Welcome, Register and Login activities.
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Login%20Activity.jpg" width="30%">
-</div>
-<br>
-The Navigation Drawer which is accessible from every activity and the Main Activity.
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Navigation%20Drawer.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg" width="30%">
-</div>
-<br>
-Movies Activity, Seat Selection Activity, Booking Information Activity, Payment Activity and Successful  Payment Activity.
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Seat%20Selection%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Booking%20Information%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Payment%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Successful%20Payment%20Activity.jpg" width="30%">  
-</div>
-<br>
-The Admin Settings Activity enables administrators to manage user accounts and employees to configure movie-related settings.<br>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Admin%20Settings%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Edit%20Users%20Activity.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Section%20Setting.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Add%20a%20New%20Movie%20Setting.jpg" width="30%">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Remove%20a%20Movie%20or%20See%20Sold%20Tickets%20Options.jpg" width="30%">
-</div>
-
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. You can also download the APK file to explore the app without setting up your own database.
